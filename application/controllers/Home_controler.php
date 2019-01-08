@@ -27,6 +27,14 @@ class home_controler extends CI_Controller{
         $this->load->view('detail/detail4');
     }
     
+    public function detail4_1() {
+        $this->load->view('detail/detail4_1');
+    }
+    
+    public function detail4_2() {
+        $this->load->view('detail/detail4_2');
+    }
+    
     public function detail5() {
         $this->load->view('detail/detail5');
     }
@@ -122,6 +130,7 @@ class home_controler extends CI_Controller{
     public function detail28() {
         $this->load->view('detail/detail28');
     }
+    
     
     
     }
