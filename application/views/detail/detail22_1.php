@@ -3,13 +3,13 @@
         
     </head>
     <body>
-        <h1>PERMOHONAN SERTIFIKASI ARAH KIBLAT</h1>
+        <h1>KONSULTASI BP4</h1>
         <h2>Persyaratan</h2>
         <ol>
-            <li>Surat permohonan pengukuran arah kiblat.</li>
+            <li>Mengisi blangko formulir Konsultasi keagamaan.</li>
         </ol>
         <h2>Estimasi Waktu Pelayanan</h2>
-        <a>15 menit.</a>
+        <a>15 Menit.</a>
     </body>
 </html>
 

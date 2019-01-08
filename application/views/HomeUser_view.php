@@ -33,7 +33,8 @@
             <li><a href="<?php echo base_url('index.php/Home_controler/detail25')?>">Surat Keterangan Perpanjangan PIHK</a></li>
             <li><a href="<?php echo base_url('index.php/Home_controler/detail26')?>">Permohonan Perpanjangan Kantor Cabang Penyelenggara Ibadah Haji Khusus</a></li>
             <li><a href="<?php echo base_url('index.php/Home_controler/detail27')?>">Izin Pendirian KBIH</a></li>
-            <li><a href="<?php echo base_url('index.php/Home_controler/detail28')?>">Pelayanan Tata Persuratan</a></li>
+            <li><a href="<?php echo base_url('index.php/Home_controler/detail28')?>">Perpanjangan Izin KBIH</a></li>
+            <li><a href="<?php echo base_url('index.php/Home_controler/detail29')?>">Pelayanan Tata Persuratan</a></li>
         </ol>
     </body>
 </html>

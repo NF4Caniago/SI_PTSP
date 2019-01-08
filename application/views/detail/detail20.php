@@ -63,5 +63,7 @@
                 
             </tr>
         </table>
+        <h2>Estimasi Waktu Pelayanan</h2>
+        <a>2 (dua) minggu jika Syarat Ketentuan terpenuhi.</a>
     </body>
 </html>

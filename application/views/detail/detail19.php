@@ -69,5 +69,7 @@
                 
             </tr>
         </table>
+        <h2>Estimasi Waktu Pelayanan</h2>
+        <a>1 (satu) minggu jika Syarat Ketentuan terpenuhi dan pejabat terkait ada di tempat.</a>
     </body>
 </html>

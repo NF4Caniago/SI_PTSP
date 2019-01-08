@@ -22,6 +22,8 @@
             <li>Piagam Lembaga/Yayasan (Pesantren/Sekolah);</li>
             <li>Surat Keterangan dari Penjamin yang menerangkan bahwa yang bersangkutan adalah benar santri/siswa dari lembaga yang bersangkutan;</li>
         </ol>
+        <h2>Estimasi Waktu Pelayanan</h2>
+        <a>30 Menit/dokumen jika Syarat Ketentuan terpenuhi.</a>
     </body>
 </html>
 

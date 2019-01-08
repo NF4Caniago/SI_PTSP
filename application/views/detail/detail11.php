@@ -9,6 +9,8 @@
             <li>Surat permohonan rekomendasi pindah sekolah;</li>
             <li>Surat keterangan pindah sekolah dari sekolah asal.</li>
         </ol>
+        <h2>Estimasi Waktu Pelayanan</h2>
+        <a>15 Menit/dokumen jika Syarat Ketentuan terpenuhi.</a>
     </body>
 </html>
 

@@ -103,12 +103,48 @@ class home_controler extends CI_Controller{
         $this->load->view('detail/detail21');
     }
     
+    public function detail21_1(){
+        $this->load->view('detail/detail21_1');
+    }
+
+    public function detail21_2() {
+        $this->load->view('detail/detail21_2');
+    }
+    
+    public function detail21_3() {
+        $this->load->view('detail/detail21_3');
+    }
+    
     public function detail22() {
         $this->load->view('detail/detail22');
     }
     
+    public function detail22_1() {
+        $this->load->view('detail/detail22_1');
+    }
+    
+    public function detail22_2() {
+        $this->load->view('detail/detail22_2');
+    }
+    
+    public function detail22_3() {
+        $this->load->view('detail/detail22_3');
+    }
+    
     public function detail23() {
         $this->load->view('detail/detail23');
+    }
+    
+    public function detail23_1() {
+        $this->load->view('detail/detail23_1');
+    }
+    
+    public function detail23_2() {
+        $this->load->view('detail/detail23_2');
+    }
+    
+    public function detail23_3() {
+        $this->load->view('detail/detail23_3');
     }
     
     public function detail24() {
@@ -129,6 +165,10 @@ class home_controler extends CI_Controller{
     
     public function detail28() {
         $this->load->view('detail/detail28');
+    }
+    
+    public function detail29() {
+        $this->load->view('detail/detail29');
     }
     
     

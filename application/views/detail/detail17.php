@@ -75,7 +75,7 @@
                 
             </tr>
         </table>
-    </body>
-</html>
+        <h2>Estimasi Waktu Pelayanan</h2>
+        <a>1 (satu) minggu jika Syarat Ketentuan terpenuhi.</a>
     </body>
 </html>

@@ -26,6 +26,8 @@
         <li>Manfaat (benefit);
     </ul>
         </ol>
+        <h2>Estimasi Waktu Pelayanan</h2>
+        <a>10 (sepuluh hari kerja).</a>
     </body>
 </html>
 
