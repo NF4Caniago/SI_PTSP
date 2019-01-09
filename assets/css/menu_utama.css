@@ -1,0 +1,41 @@
+div.menu_row{
+   padding: 10px;
+   clear: both;
+   padding-top: 100px;
+   height: 220px;
+}
+
+div.menu_col{
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    background-color: lightgreen;
+    height: 232px;
+    width: 232px;
+    border-radius: 20px;
+}
+
+div.ok{
+    clear: both
+}
+
+h1.wel{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-top: 20px;
+    font-size: 60px;
+}
+
+div.judul{
+    margin-left: 27px;
+    float: left;
+    width: 250px;
+}
+
+div.our_head{
+    clear: both
+}
+
+img.icon_home{
+    height: 232px;
+    width: 232px;
+}
