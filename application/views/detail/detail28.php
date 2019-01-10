@@ -1,7 +1,20 @@
 <html>
-    <head></head>
-    <body>
+    <head>
+        <title>PERPANJANGAN IZIN KELOMPOK BIMBINGAN IBADAH HAJI</title>
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.min.css') ?>">
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.css') ?>">
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/info.css') ?>">
+    </head>
+    <body style="background-image: url(<?php echo base_url('assets/gambar/bg.png') ?>)">
+        
+         <div class="container" style="margin-top: 20px" > 
+        
+        <center>
+        <img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>">
         <h1>PERPANJANGAN IZIN KELOMPOK BIMBINGAN IBADAH HAJI</h1>
+        </center>
+        
+             <div class="info">
         <h2>Persyaratan</h2>
         <table border="1">
             <tr>
@@ -87,6 +100,13 @@
             <li>Kepala Kanwil Kemenag DIY akan memberikan perpanjangan izin KBIH berupa Surat Keputusan Penetapan Kembali KBIH kepada pemohon yang memenuhi syarat dengan mempertimbangkan hasil verifikasi (chek list persyaratan) dan berita acara hasil peninjauan lapangan dan akan menolak memberikan izin bagi yang tidak memenuhi syarat dengan penjelasan tertulis;</li>
         </ol>
         <h2>Estimasi Waktu Pelayanan</h2>
-        <a>2 (dua) minggu jika Syarat Ketentuan terpenuhi dan pejabat terkait ada di tempat.</a>
+        <a class="list">2 (dua) minggu jika Syarat Ketentuan terpenuhi dan pejabat terkait ada di tempat.</a>
+         </div>
+         </div>
+        
+        <div class="bg-success" style="margin-top: 70px">
+            <p align="center" style="padding: 50px; color:white;">Copyright © 2019 PTSP Kemenag Kanwil DIY. All rights reserved.</p>
+        </div>
+        
     </body>
 </html>

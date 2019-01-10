@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.css') ?>">
        
     </head>
-    <body style="background-image: url(<?php echo base_url('assets/gambar/bg.png') ?>)">
+    <body style="background-image: url(<?php echo base_url('assets/gambar/bg.jpg') ?>)">
     
        
         <div class="container">
@@ -24,7 +24,7 @@
             </div>
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail2')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail2')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
@@ -32,7 +32,7 @@
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail4')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail4')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
         </div>
@@ -74,19 +74,19 @@
         <div class="menu_row" >
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail9')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail9')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail10')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail10')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail11')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail11')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
                 
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail12')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail12')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
         </div>
@@ -101,19 +101,19 @@
         <div class="menu_row" >
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail13')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail13')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail14')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail14')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail15')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail15')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail16')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail16')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
                 
         </div>
@@ -128,19 +128,19 @@
         <div class="menu_row" >
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail17')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail17')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail18')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail18')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail19')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail19')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail20')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail20')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
         </div>
@@ -156,19 +156,19 @@
         <div class="menu_row" >
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail21')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail21')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
                 
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail22')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail22')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail23')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail23')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
              <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail24')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail24')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
            
         </div>
@@ -183,15 +183,15 @@
             
         <div class="menu_row">
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail25')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail25')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
             
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail28')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail28')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
                 
             <div class="menu_col">
-                <a href="<?php echo base_url('index.php/Home_controler/detail29')?>"></a>
+                <a href="<?php echo base_url('index.php/Home_controler/detail29')?>"><img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>"></a>
             </div>
         </div>
             

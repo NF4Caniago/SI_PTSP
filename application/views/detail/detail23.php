@@ -12,6 +12,11 @@
             <li><a href="<?php echo base_url('index.php/Home_controler/detail23_3'); ?>">Penceramah</a></li>
         </ol>
         
+        <div class="bg-success" style="margin-top: 70px">
+            <p align="center" style="padding: 50px; color:white;">Copyright © 2019 PTSP Kemenag Kanwil DIY. All rights reserved.</p>
+        </div>
+        
+        
     </body>
 </html>
 

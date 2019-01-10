@@ -1,7 +1,21 @@
 <html>
-    <head></head>
-    <body>
+    <head>
+        <title>Rekomendasi Perpanjangan PPIU</title>
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.min.css') ?>">
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.css') ?>">
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/info.css') ?>">
+        
+    </head>
+    <body style="background-image: url(<?php echo base_url('assets/gambar/bg.png') ?>)">
+        
+        <div class="container" style="margin-top: 20px" > 
+        
+        <center>
+        <img class="icon_home" src="<?php echo base_url('assets/gambar/ui7.png')?>">
         <h1>Rekomendasi Perpanjangan PPIU</h1>
+        </center>
+            
+        <div class="info">    
         <h2>Persyaratan</h2>
         <table border="1">
             <tr>
@@ -15,7 +29,7 @@
             
             <tr>
                 <td>
-                    <ol>
+                    <ol class="list">
 <li>Permohonan rekomendasi perpanjangan izin PPIU diajukan paling lambat 3 (tiga) bulan sebelum izin operasional berakhir;</li>
 <li>Pemilik dalam akta perusahaan Warga Negara Indonesia yang beragama Islam dan tidak sebagai pemilik PPIU lain;</li>
 <li>Memiliki susunan kepengurusan perusahaan;</li>
@@ -40,7 +54,7 @@
             
             
                 <td>
-                    <ol>
+                    <ol class="list">
 <li>Surat Permohonan dari Pimpinan perusahaan (asli) ditujukan kepada Kepala Kantor Wilayah Kementerian Agama Daerah Istimewa Yogyakarta;</li>
 <li>Susunan kepengurusan perusahaan;</li>
 <li>Fotokopi izin usaha biro perjalanan wisata dari Pemerintah Daerah setempat yang sudah beroperasional paling singkat 2 (dua) tahun yang masih berlaku sebanyak 1 lembar;</li>
@@ -64,7 +78,7 @@
                 
             
                 <td>
-                    <ol>
+                    <ol class="list">
 <li>Hasil Verifikasi Berkas Permohonan dinyatakan lengkap dan lolos verifikasi;</li>
 <li>Hasil Peninjauan Lapangan dinyatakan layak dan memenuhi syarat;</li>
 <li>Pemilik dalam akta perusahaan Warga Negara Indonesia yang beragama Islam dan tidak sebagai pemilik PPIU lain dibuktikan dengan KTP-nya dan hasil verifikasi;</li>
@@ -83,6 +97,13 @@
             
         </table>
         <h2>Estimasi Waktu Pelayanan</h2>
-        <a>1 (satu) minggu jika Syarat Ketentuan terpenuhi.</a>
+        <a class="list">1 (satu) minggu jika Syarat Ketentuan terpenuhi.</a>
+        </div>
+        </div>
+        
+        <div class="bg-success" style="margin-top: 70px">
+            <p align="center" style="padding: 50px; color:white;">Copyright © 2019 PTSP Kemenag Kanwil DIY. All rights reserved.</p>
+        </div>
+        
     </body>
 </html>
